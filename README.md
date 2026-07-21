@@ -7,7 +7,8 @@ Bu sistem ile kütüphanedeki kitaplar, üyeler ve gerçekleştirilen işlemler 
 
 ## Kullanılan Teknolojiler
 * MySQL
-* [Buraya kullandığın dili/aracı yaz, örneğin: PHP/Python]
+* Html
+* PHP
 
 ## Nasıl Çalıştırılır?
 
